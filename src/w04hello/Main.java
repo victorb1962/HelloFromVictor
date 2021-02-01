@@ -7,5 +7,6 @@ public class Main {
         System.out.print("Hello, my name is Victor Boxall.");
         System.out.print("Hello Victor Boxall, my name is Olusegun Abayomi.");
         System.out.print("Hello Victor Boxall, my name is John Wagner");
+	System.out.print("Hello Victor Boxall, my name is Ye Ling");
     }
 }
